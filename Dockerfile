@@ -1,5 +1,5 @@
 FROM python:3.9-alpine3.13
-LABEL maintainer="reciper-app.com"
+LABEL maintainer="recipe-app.com"
 
 ENV PYTHONBUFFERED=1
 
